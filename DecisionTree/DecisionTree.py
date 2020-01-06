@@ -1,2 +1,4 @@
 from math import log
-i
+import operator
+
+def calcShannonEnt
