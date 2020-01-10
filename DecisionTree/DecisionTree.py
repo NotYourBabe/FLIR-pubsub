@@ -6,4 +6,4 @@ def calcShannonEnt(dataSet):
     labelCounts = {}
     for featVec in dataSet:
         currentLabel = featVec[-1]
-  
+        if currentLabel not in labelC
