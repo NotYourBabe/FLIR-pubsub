@@ -11,4 +11,4 @@ def calcShannonEnt(dataSet):
         labelCounts[currentLabel] += 1
     shannonEnt = 0.0
     for key in labelCounts:
-        
+        prob = float(labelCounts[key])
