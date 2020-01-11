@@ -10,4 +10,5 @@ def calcShannonEnt(dataSet):
             labelCounts[currentLabel] = 0
         labelCounts[currentLabel] += 1
     shannonEnt = 0.0
-    
+    for key in labelCounts:
+        
