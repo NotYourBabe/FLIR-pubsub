@@ -8,4 +8,6 @@ def calcShannonEnt(dataSet):
         currentLabel = featVec[-1]
         if currentLabel not in labelCounts.keys():
             labelCounts[currentLabel] = 0
-        labelCounts[currentLabe
+        labelCounts[currentLabel] += 1
+    shannonEnt = 0.0
+    
