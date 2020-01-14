@@ -16,4 +16,4 @@ def calcShannonEnt(dataSet):
     return shannonEnt
 
 def createDataSet():
-    dataSet = [[1,
+    dataSet = [[1, 1, 'yes'], [1, 1, 'yes'], [1, 
