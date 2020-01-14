@@ -15,4 +15,5 @@ def calcShannonEnt(dataSet):
         shannonEnt -= prob * log(prob, 2)
     return shannonEnt
 
-def create
+def createDataSet():
+    dataSet = [[1,
