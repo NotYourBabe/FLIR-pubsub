@@ -20,4 +20,5 @@ def createDataSet():
     labels = ['no surfacing', 'flippers']
     return dataSet, labels
 
-def splitDataSet(data
+def splitDataSet(dataSet, axis, value):
+    r
