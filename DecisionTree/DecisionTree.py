@@ -21,4 +21,5 @@ def createDataSet():
     return dataSet, labels
 
 def splitDataSet(dataSet, axis, value):
-    r
+    retDataSet = []
+    for featVec in
