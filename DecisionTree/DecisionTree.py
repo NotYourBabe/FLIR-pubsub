@@ -23,4 +23,5 @@ def createDataSet():
 def splitDataSet(dataSet, axis, value):
     retDataSet = []
     for featVec in dataSet:
-        if featVec[axis] == 
+        if featVec[axis] == value:
+            reducedFea
