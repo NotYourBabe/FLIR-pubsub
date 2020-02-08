@@ -24,4 +24,5 @@ def splitDataSet(dataSet, axis, value):
     retDataSet = []
     for featVec in dataSet:
         if featVec[axis] == value:
-            reducedFea
+            reducedFeatVec = featVec[:axis]
+            redu
