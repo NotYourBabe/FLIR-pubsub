@@ -27,4 +27,6 @@ def splitDataSet(dataSet, axis, value):
             reducedFeatVec = featVec[:axis]
             reducedFeatVec.extend(featVec[axis+1:])
             retDataSet.append(reducedFeatVec)
-   
+    return retDataSet
+
+def chooseB
