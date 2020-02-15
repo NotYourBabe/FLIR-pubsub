@@ -29,4 +29,4 @@ def splitDataSet(dataSet, axis, value):
             retDataSet.append(reducedFeatVec)
     return retDataSet
 
-def chooseB
+def chooseBestFeatureToSplit(dataSet
