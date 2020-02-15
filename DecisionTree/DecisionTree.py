@@ -30,4 +30,5 @@ def splitDataSet(dataSet, axis, value):
     return retDataSet
 
 def chooseBestFeatureToSplit(dataSet):
-    numFeatures = len(dataSe
+    numFeatures = len(dataSet[0]) - 1
+    baseEntropy = ca
