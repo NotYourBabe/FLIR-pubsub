@@ -34,4 +34,5 @@ def chooseBestFeatureToSplit(dataSet):
     baseEntropy = calcShannonEnt(dataSet)
     bestInfoGain = 0.0
     bestFeature = -1
-    for i in 
+    for i in range(numFeatures):
+  
