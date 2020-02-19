@@ -35,4 +35,4 @@ def chooseBestFeatureToSplit(dataSet):
     bestInfoGain = 0.0
     bestFeature = -1
     for i in range(numFeatures):
-  
+        featList = [example[i] for
