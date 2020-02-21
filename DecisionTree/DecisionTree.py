@@ -36,4 +36,5 @@ def chooseBestFeatureToSplit(dataSet):
     bestFeature = -1
     for i in range(numFeatures):
         featList = [example[i] for example in dataSet]
-        uniqueVa
+        uniqueValues = set(featList)
+     
