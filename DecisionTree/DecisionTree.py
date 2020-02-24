@@ -39,4 +39,5 @@ def chooseBestFeatureToSplit(dataSet):
         uniqueValues = set(featList)
         newEntroy = 0.0
         for value in uniqueValues:
-            subDataSet = sp
+            subDataSet = splitDataSet(dataSet, i, value)
+     
