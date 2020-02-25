@@ -40,4 +40,5 @@ def chooseBestFeatureToSplit(dataSet):
         newEntroy = 0.0
         for value in uniqueValues:
             subDataSet = splitDataSet(dataSet, i, value)
-            prob = len(subDataSet) / float(len(dataSe
+            prob = len(subDataSet) / float(len(dataSet))
+            newEntroy += pr
