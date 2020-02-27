@@ -42,4 +42,4 @@ def chooseBestFeatureToSplit(dataSet):
             subDataSet = splitDataSet(dataSet, i, value)
             prob = len(subDataSet) / float(len(dataSet))
             newEntroy += prob * calcShannonEnt(subDataSet)
-      
+        infoGain = baseEntropy - newEn
