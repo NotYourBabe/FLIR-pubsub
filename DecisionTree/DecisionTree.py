@@ -45,4 +45,5 @@ def chooseBestFeatureToSplit(dataSet):
         infoGain = baseEntropy - newEntroy
         if (infoGain > bestInfoGain):
             bestInfoGain = infoGain
-           
+            bestFeature = i
+    return bes
