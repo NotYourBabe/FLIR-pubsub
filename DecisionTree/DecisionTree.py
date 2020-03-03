@@ -46,4 +46,7 @@ def chooseBestFeatureToSplit(dataSet):
         if (infoGain > bestInfoGain):
             bestInfoGain = infoGain
             bestFeature = i
-    return bes
+    return bestFeature
+
+
+def majo
