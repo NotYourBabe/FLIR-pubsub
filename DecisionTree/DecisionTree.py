@@ -49,4 +49,5 @@ def chooseBestFeatureToSplit(dataSet):
     return bestFeature
 
 
-def majo
+def majorityCnt(classList):
+    classCoun
