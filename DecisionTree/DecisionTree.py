@@ -50,4 +50,5 @@ def chooseBestFeatureToSplit(dataSet):
 
 
 def majorityCnt(classList):
-    classCoun
+    classCount={}
+    for vote in classList
