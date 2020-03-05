@@ -55,4 +55,4 @@ def majorityCnt(classList):
         if vote not in classCount.keys():
             classCount[vote] = 0
         classCount[vote] += 1
-    sortedClassCount = sorted(class
+    sortedClassCount = sorted(classCount.iteritems(), key=oper
