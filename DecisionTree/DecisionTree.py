@@ -59,4 +59,4 @@ def majorityCnt(classList):
     return sortedClassCount[0][0]
 
 def createTree(dataSet, labels):
-    classLi
+    classList = [example[-1] for example i
