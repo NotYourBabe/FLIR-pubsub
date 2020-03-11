@@ -61,4 +61,5 @@ def majorityCnt(classList):
 def createTree(dataSet, labels):
     classList = [example[-1] for example in dataSet]
     if classList.count(classList[0]) == len(classList):
-        return classL
+        return classList[0]
+    if len(dataSet[
