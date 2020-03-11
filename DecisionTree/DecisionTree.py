@@ -62,4 +62,5 @@ def createTree(dataSet, labels):
     classList = [example[-1] for example in dataSet]
     if classList.count(classList[0]) == len(classList):
         return classList[0]
-    if len(dataSet[
+    if len(dataSet[0]) == 1:
+        return maj
