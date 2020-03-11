@@ -63,4 +63,5 @@ def createTree(dataSet, labels):
     if classList.count(classList[0]) == len(classList):
         return classList[0]
     if len(dataSet[0]) == 1:
-        return maj
+        return majorityCnt(classList)
+    bestFeat = choo
