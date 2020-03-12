@@ -65,4 +65,4 @@ def createTree(dataSet, labels):
     if len(dataSet[0]) == 1:
         return majorityCnt(classList)
     bestFeat = chooseBestFeatureToSplit(dataSet)
-    be
+    bestFeatLabel = labels[bestFeat]
