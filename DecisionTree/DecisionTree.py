@@ -69,4 +69,5 @@ def createTree(dataSet, labels):
     myTree = {bestFeatLabel:{}}
     del(labels[bestFeat])
     featValues = [example[bestFeat] for example in dataSet]
-    
+    uniqueVals = set(featValues)
+ 
