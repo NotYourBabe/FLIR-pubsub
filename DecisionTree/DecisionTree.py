@@ -70,4 +70,5 @@ def createTree(dataSet, labels):
     del(labels[bestFeat])
     featValues = [example[bestFeat] for example in dataSet]
     uniqueVals = set(featValues)
- 
+    for value in uniqueVals:
+  
