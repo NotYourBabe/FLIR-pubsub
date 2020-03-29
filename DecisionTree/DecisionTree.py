@@ -77,4 +77,5 @@ def createTree(dataSet, labels):
 
 
 myDat, labels = createDataSet()
-result = createTree(m
+result = createTree(myDat, labels)
+print result
