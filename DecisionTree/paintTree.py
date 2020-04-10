@@ -5,4 +5,4 @@ leafNode = dict(boxstyle="round4", fc="0.8")
 arrow_args = dict(arrowstyle="<-")
 
 def createPlot():
-    fig 
+    fig = plt.figure(1, facecol
