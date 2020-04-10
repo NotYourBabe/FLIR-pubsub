@@ -7,3 +7,4 @@ arrow_args = dict(arrowstyle="<-")
 def createPlot():
     fig = plt.figure(1, facecolor="white")
     fig.clf()
+    createPlot.ax1 = plt
