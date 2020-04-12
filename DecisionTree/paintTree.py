@@ -8,4 +8,4 @@ def createPlot():
     fig = plt.figure(1, facecolor="white")
     fig.clf()
     createPlot.ax1 = plt.subplot(111, frameon=False)
- 
+    plotNode('Decision 
