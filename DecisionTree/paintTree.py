@@ -11,3 +11,5 @@ def createPlot():
     plotNode('Decision Node', (0.5, 0.1), (0.1, 0.5), decisionNode)
     plotNode('Leaf Node', (0.8, 0.1), (0.3, 0.8), leafNode)
     plt.show()
+
+def plotNode(nodeTxt, centerP
