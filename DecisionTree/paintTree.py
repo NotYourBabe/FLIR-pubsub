@@ -13,4 +13,4 @@ def createPlot():
     plt.show()
 
 def plotNode(nodeTxt, centerPt, parentPt, nodeType):
-    createPlot.ax1.annotate(nodeTxt, xy=parentPt, xycoords='axes fraction', xytext
+    createPlot.ax1.annotate(nodeTxt, xy=parentPt, xycoords='axes fraction', xytext=centerPt, textcoords='ax
