@@ -19,3 +19,4 @@ def plotNode(nodeTxt, centerPt, parentPt, nodeType):
 def getNumLeafs(myTree):
     numLeafs = 0
     firstStr = myTree.keys()[0]
+    secondDict = myTree[firs
