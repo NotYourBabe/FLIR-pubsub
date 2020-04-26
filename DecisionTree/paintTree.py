@@ -17,4 +17,5 @@ def plotNode(nodeTxt, centerPt, parentPt, nodeType):
                             va="center", ha="center", bbox=nodeType, arrowprops=arrow_args)
 
 def getNumLeafs(myTree):
-    numLeafs =
+    numLeafs = 0
+    firstStr = myTree.keys()[0]
