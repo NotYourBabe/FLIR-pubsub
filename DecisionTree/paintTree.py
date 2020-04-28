@@ -20,4 +20,5 @@ def getNumLeafs(myTree):
     numLeafs = 0
     firstStr = myTree.keys()[0]
     secondDict = myTree[firstStr]
-    for key in secondDict.ke
+    for key in secondDict.keys():
+        if type(secondDict[k
