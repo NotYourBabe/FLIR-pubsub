@@ -22,4 +22,6 @@ def getNumLeafs(myTree):
     secondDict = myTree[firstStr]
     for key in secondDict.keys():
         if type(secondDict[key]).__name__ == 'dict':
-            numLeafs += getNumLeafs(s
+            numLeafs += getNumLeafs(secondDict[key])
+        else:
+   
