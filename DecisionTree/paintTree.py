@@ -24,4 +24,5 @@ def getNumLeafs(myTree):
         if type(secondDict[key]).__name__ == 'dict':
             numLeafs += getNumLeafs(secondDict[key])
         else:
-   
+            numLeafs += 1
+    return numL
