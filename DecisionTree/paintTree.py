@@ -27,4 +27,5 @@ def getNumLeafs(myTree):
             numLeafs += 1
     return numLeafs
 
-def getTreeD
+def getTreeDepth(myTree):
+    maxDepth = 
