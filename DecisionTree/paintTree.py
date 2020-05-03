@@ -25,4 +25,6 @@ def getNumLeafs(myTree):
             numLeafs += getNumLeafs(secondDict[key])
         else:
             numLeafs += 1
-    return numL
+    return numLeafs
+
+def getTreeD
