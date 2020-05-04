@@ -29,4 +29,5 @@ def getNumLeafs(myTree):
 
 def getTreeDepth(myTree):
     maxDepth = 0
-    firstStr = myTree.keys()
+    firstStr = myTree.keys()[0]
+    secondDict = myTree[firstS
