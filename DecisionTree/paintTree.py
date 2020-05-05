@@ -31,4 +31,5 @@ def getTreeDepth(myTree):
     maxDepth = 0
     firstStr = myTree.keys()[0]
     secondDict = myTree[firstStr]
-    for key in secondDict.keys
+    for key in secondDict.keys():
+        if type(secondDict[key]).__n
