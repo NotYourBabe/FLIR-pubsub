@@ -35,4 +35,5 @@ def getTreeDepth(myTree):
         if type(secondDict[key]).__name__ == 'dict':
             thisDepth = 1 + getTreeDepth(secondDict[key])
         else:
-         
+            thisDepth = 1
+        if thi
