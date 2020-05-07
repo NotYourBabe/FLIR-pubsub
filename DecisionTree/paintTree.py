@@ -36,4 +36,5 @@ def getTreeDepth(myTree):
             thisDepth = 1 + getTreeDepth(secondDict[key])
         else:
             thisDepth = 1
-        if thi
+        if thisDepth > maxDepth :
+           
