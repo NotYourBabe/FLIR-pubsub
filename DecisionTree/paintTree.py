@@ -38,4 +38,7 @@ def getTreeDepth(myTree):
             thisDepth = 1
         if thisDepth > maxDepth :
             maxDepth = thisDepth
-    return maxDept
+    return maxDepth
+
+def retrieveTree(i):
+    
