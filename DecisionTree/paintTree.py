@@ -41,4 +41,4 @@ def getTreeDepth(myTree):
     return maxDepth
 
 def retrieveTree(i):
-    listOfTrees = [{'no surfac
+    listOfTrees = [{'no surfacing':{0: 'no', 1: {'flipper
