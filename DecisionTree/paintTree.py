@@ -46,4 +46,5 @@ def retrieveTree(i):
     return listOfTrees[i]
 
 def plotMidText(cntrPt, parentPt, txtString):
-    xMid = (parentPt
+    xMid = (parentPt[0] + cntrPt[0]) / 2.0
+    y
