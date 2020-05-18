@@ -50,4 +50,5 @@ def plotMidText(cntrPt, parentPt, txtString):
     yMid = (parentPt[1] + cntrPt[1]) / 2.0
     createPlot.ax1.text(xMid, yMid, txtString)
 
-def plot
+def plotTree(myTree, parentPt, nodeTxt):
+  
