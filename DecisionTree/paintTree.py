@@ -51,4 +51,5 @@ def plotMidText(cntrPt, parentPt, txtString):
     createPlot.ax1.text(xMid, yMid, txtString)
 
 def plotTree(myTree, parentPt, nodeTxt):
-    numLeafs = getNumLeafs(myTree
+    numLeafs = getNumLeafs(myTree)
+    depth = getTreeDepth(
