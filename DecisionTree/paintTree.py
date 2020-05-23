@@ -54,4 +54,4 @@ def plotTree(myTree, parentPt, nodeTxt):
     numLeafs = getNumLeafs(myTree)
     depth = getTreeDepth(myTree)
     firstStr = myTree.keys()[0]
-    cntrPt = (plotTree.xO
+    cntrPt = (plotTree.xOff + (1.0 + float(numLeafs))/2
