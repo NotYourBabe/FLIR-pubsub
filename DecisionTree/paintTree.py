@@ -53,4 +53,5 @@ def plotMidText(cntrPt, parentPt, txtString):
 def plotTree(myTree, parentPt, nodeTxt):
     numLeafs = getNumLeafs(myTree)
     depth = getTreeDepth(myTree)
-    firstStr = myTree.ke
+    firstStr = myTree.keys()[0]
+    cntrPt = (plotTree.xO
