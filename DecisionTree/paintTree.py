@@ -56,4 +56,4 @@ def plotTree(myTree, parentPt, nodeTxt):
     firstStr = myTree.keys()[0]
     cntrPt = (plotTree.xOff + (1.0 + float(numLeafs))/2.0/plotTree.totalW,\
               plotTree.yOff)
-    p
+    plotMidText(cntrPt, paren
