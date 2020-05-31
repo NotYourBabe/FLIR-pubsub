@@ -57,4 +57,5 @@ def plotTree(myTree, parentPt, nodeTxt):
     cntrPt = (plotTree.xOff + (1.0 + float(numLeafs))/2.0/plotTree.totalW,\
               plotTree.yOff)
     plotMidText(cntrPt, parentPt, nodeTxt)
-    plotNode(firstStr, cntr
+    plotNode(firstStr, cntrPt, parentPt, decisionNode)
+    
