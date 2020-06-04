@@ -58,4 +58,4 @@ def plotTree(myTree, parentPt, nodeTxt):
               plotTree.yOff)
     plotMidText(cntrPt, parentPt, nodeTxt)
     plotNode(firstStr, cntrPt, parentPt, decisionNode)
-    
+    secondDict = myTree[firstStr]
