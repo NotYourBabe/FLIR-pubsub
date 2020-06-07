@@ -59,4 +59,8 @@ def plotTree(myTree, parentPt, nodeTxt):
     plotMidText(cntrPt, parentPt, nodeTxt)
     plotNode(firstStr, cntrPt, parentPt, decisionNode)
     secondDict = myTree[firstStr]
-    plotTree.yOff = plotTree.y
+    plotTree.yOff = plotTree.yOff - 1.0/plotTree.totalD
+
+
+
+t
