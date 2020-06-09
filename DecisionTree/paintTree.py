@@ -64,4 +64,5 @@ def plotTree(myTree, parentPt, nodeTxt):
 
 
 tree = retrieveTree(1)
-a = getNum
+a = getNumLeafs(tree)
+b = getTreeDept
