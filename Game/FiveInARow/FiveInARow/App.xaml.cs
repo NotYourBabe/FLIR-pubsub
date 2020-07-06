@@ -11,4 +11,5 @@ namespace FiveInARow
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
-    public partial class A
+    public partial class App : Application
+ 
