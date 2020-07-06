@@ -9,4 +9,5 @@ using System.Windows;
 namespace FiveInARow
 {
     /// <summary>
-    /// Interaction l
+    /// Interaction logic for App.xaml
+    /// </summ
