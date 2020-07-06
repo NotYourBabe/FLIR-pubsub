@@ -6,4 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace FiveInARo
+namespace FiveInARow
+{
+    /// <summary>
+    /// Interaction l
