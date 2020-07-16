@@ -1,1 +1,2 @@
-﻿<Wind
+﻿<Window x:Class="FiveInARow.MainWindow"
+  
