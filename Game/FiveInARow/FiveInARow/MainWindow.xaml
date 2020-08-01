@@ -8,4 +8,4 @@
         Title="MainWindow" Height="800" Width="800">
     <DockPanel>
         <Canvas DockPanel.Dock="Left"
-                Name="
+                Name="_board" Width="660" Height="660" Back
