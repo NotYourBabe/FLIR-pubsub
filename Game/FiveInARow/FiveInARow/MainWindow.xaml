@@ -8,4 +8,5 @@
         Title="MainWindow" Height="800" Width="800">
     <DockPanel>
         <Canvas DockPanel.Dock="Left"
-                Name="_board" Width="660" Height="660" Background="#E3C593" PreviewMouseMove="_board_PreviewMouseMove" PreviewMouseDown="_boa
+                Name="_board" Width="660" Height="660" Background="#E3C593" PreviewMouseMove="_board_PreviewMouseMove" PreviewMouseDown="_board_PreviewMouseDown">
+        </Canvas>
