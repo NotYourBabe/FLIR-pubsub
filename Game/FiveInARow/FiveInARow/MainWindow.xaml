@@ -10,4 +10,4 @@
         <Canvas DockPanel.Dock="Left"
                 Name="_board" Width="660" Height="660" Background="#E3C593" PreviewMouseMove="_board_PreviewMouseMove" PreviewMouseDown="_board_PreviewMouseDown">
         </Canvas>
-        <Button DockPanel.D
+        <Button DockPanel.Dock="Top" Click="Star
