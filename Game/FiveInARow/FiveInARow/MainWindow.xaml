@@ -12,4 +12,5 @@
         </Canvas>
         <Button DockPanel.Dock="Top" Click="StartGameButton_Click">Start Game</Button>
         <CheckBox DockPanel.Dock="Top" Name="_computerUseBlack">Computer use Black</CheckBox>
-    </DockPa
+    </DockPanel>
+</Window>
