@@ -5,4 +5,4 @@ using System.Runtime.InteropServices;
 using System.Windows;
 
 // General Information about an assembly is controlled through the following 
-// set of attr
+// set of attributes. Change these attribute val
