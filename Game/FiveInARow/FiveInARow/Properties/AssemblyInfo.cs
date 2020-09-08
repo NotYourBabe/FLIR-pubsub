@@ -9,4 +9,5 @@ using System.Windows;
 // associated with an assembly.
 [assembly: AssemblyTitle("FiveInARow")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyCon
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyC
