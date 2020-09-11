@@ -10,4 +10,5 @@ using System.Windows;
 [assembly: AssemblyTitle("FiveInARow")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyC
+[assembly: AssemblyCompany("")]
+[assembly: Assembl
