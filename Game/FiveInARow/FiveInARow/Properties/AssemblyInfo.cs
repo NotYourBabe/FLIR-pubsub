@@ -11,4 +11,5 @@ using System.Windows;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: Assembl
+[assembly: AssemblyProduct("FiveInARow")]
+[assemb
