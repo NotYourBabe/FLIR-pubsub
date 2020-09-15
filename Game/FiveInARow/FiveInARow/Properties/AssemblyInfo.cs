@@ -12,4 +12,4 @@ using System.Windows;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("FiveInARow")]
-[assemb
+[assembly: AssemblyCopyright("Copyright ©  2017"
