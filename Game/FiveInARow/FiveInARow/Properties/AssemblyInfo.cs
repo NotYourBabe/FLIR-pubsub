@@ -14,4 +14,6 @@ using System.Windows;
 [assembly: AssemblyProduct("FiveInARow")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
-[assembly: Assembly
+[assembly: AssemblyCulture("")]
+
+// Setting ComVisible to fal
