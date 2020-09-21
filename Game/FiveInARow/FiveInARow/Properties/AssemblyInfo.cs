@@ -16,4 +16,5 @@ using System.Windows;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// Setting ComVisible to false makes the types in this assemb
+// Setting ComVisible to false makes the types in this assembly not visible 
+// to COM compon
