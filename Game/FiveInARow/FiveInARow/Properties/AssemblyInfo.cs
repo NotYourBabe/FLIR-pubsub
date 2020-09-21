@@ -16,4 +16,4 @@ using System.Windows;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// Setting ComVisible to fal
+// Setting ComVisible to false makes the types in this assemb
