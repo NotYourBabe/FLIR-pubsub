@@ -21,4 +21,4 @@ using System.Windows;
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
-//In order to begin build
+//In order to begin building localizable application
