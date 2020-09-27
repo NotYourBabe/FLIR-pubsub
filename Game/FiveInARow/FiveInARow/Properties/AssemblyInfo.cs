@@ -22,4 +22,4 @@ using System.Windows;
 [assembly: ComVisible(false)]
 
 //In order to begin building localizable applications, set 
-//<UICulture>CultureY
+//<UICulture>CultureYouAreCodingWith</UICul
