@@ -25,4 +25,4 @@ using System.Windows;
 //<UICulture>CultureYouAreCodingWith</UICulture> in your .csproj file
 //inside a <PropertyGroup>.  For example, if you are using US english
 //in your source files, set the <UICulture> to en-US.  Then uncomment
-//the NeutralResourceLanguag
+//the NeutralResourceLanguage attribute below.  U
