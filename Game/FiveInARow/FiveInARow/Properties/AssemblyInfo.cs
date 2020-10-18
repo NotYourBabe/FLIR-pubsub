@@ -26,4 +26,4 @@ using System.Windows;
 //inside a <PropertyGroup>.  For example, if you are using US english
 //in your source files, set the <UICulture> to en-US.  Then uncomment
 //the NeutralResourceLanguage attribute below.  Update the "en-US" in
-//the line b
+//the line below to match the UICulture setting 
