@@ -28,4 +28,4 @@ using System.Windows;
 //the NeutralResourceLanguage attribute below.  Update the "en-US" in
 //the line below to match the UICulture setting in the project file.
 
-//[assembly: NeutralResourcesLangu
+//[assembly: NeutralResourcesLanguage("en-US", UltimateResou
