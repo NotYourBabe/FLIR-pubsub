@@ -32,4 +32,4 @@ using System.Windows;
 
 
 [assembly: ThemeInfo(
-    ResourceDictionaryLocation.None, //where theme specifi
+    ResourceDictionaryLocation.None, //where theme specific resource dictionaries are loca
