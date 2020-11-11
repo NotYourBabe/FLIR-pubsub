@@ -36,4 +36,5 @@ using System.Windows;
                                      //(used if a resource is not found in the page, 
                                      // or application resource dictionaries)
     ResourceDictionaryLocation.SourceAssembly //where the generic resource dictionary is located
-                                              //(used if a resource i
+                                              //(used if a resource is not found in the page, 
+        
