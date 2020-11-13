@@ -41,4 +41,4 @@ using System.Windows;
 )]
 
 
-// Version information for an 
+// Version information for an assembly consists o
