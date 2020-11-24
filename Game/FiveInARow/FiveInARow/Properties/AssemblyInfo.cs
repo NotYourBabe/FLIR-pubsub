@@ -48,4 +48,4 @@ using System.Windows;
 //      Build Number
 //      Revision
 //
-// You can specify all the values or you
+// You can specify all the values or you can default the Build and Revis
