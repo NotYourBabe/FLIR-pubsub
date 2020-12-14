@@ -13,4 +13,4 @@ namespace FiveInARow.Properties
 
 
     /// <summary>
-    ///   A stron
+    ///   A strongly-typed resource class, for loo
