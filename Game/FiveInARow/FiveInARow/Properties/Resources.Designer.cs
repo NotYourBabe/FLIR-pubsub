@@ -8,4 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FiveInARow.Prop
+namespace FiveInARow.Properties
+{
+
+
+    /// <summary>
+    ///   A stron
