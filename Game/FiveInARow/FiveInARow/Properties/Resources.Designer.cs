@@ -23,4 +23,6 @@ namespace FiveInARow.Properties
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources
- 
+    {
+
+        private stati
