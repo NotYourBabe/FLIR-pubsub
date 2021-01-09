@@ -25,4 +25,4 @@ namespace FiveInARow.Properties
     internal class Resources
     {
 
-        private stati
+        private static global::System.Resources.
