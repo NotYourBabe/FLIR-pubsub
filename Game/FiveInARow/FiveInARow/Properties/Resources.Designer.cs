@@ -25,4 +25,6 @@ namespace FiveInARow.Properties
     internal class Resources
     {
 
-        private static global::System.Resources.
+        private static global::System.Resources.ResourceManager resourceMan;
+
+     
