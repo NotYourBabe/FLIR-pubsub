@@ -27,4 +27,4 @@ namespace FiveInARow.Properties
 
         private static global::System.Resources.ResourceManager resourceMan;
 
-        private static global::Sys
+        private static global::System.Globalization.CultureInfo
