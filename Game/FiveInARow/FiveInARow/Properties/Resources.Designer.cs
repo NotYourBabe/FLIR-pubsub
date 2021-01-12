@@ -29,4 +29,4 @@ namespace FiveInARow.Properties
 
         private static global::System.Globalization.CultureInfo resourceCulture;
 
-        [global::S
+        [global::System.Diagnostics.CodeAnalysis.S
