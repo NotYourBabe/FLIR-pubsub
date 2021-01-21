@@ -35,4 +35,4 @@ namespace FiveInARow.Properties
         }
 
         /// <summary>
-        ///   Returns the cached
+        ///   Returns the cached ResourceManager instance used by this clas
