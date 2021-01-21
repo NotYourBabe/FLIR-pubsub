@@ -35,4 +35,4 @@ namespace FiveInARow.Properties
         }
 
         /// <summary>
-        
+        ///   Returns the cached
