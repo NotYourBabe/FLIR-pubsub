@@ -37,4 +37,4 @@ namespace FiveInARow.Properties
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
-        [global::System.Componen
+        [global::System.ComponentModel.EditorBrowsableAt
