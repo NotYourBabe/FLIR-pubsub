@@ -38,4 +38,4 @@ namespace FiveInARow.Properties
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::Sys
+        internal static global::System.Resources.ResourceManager 
