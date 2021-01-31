@@ -42,4 +42,6 @@ namespace FiveInARow.Properties
         {
             get
             {
-                if ((resourceMan == null
+                if ((resourceMan == null))
+                {
+             
