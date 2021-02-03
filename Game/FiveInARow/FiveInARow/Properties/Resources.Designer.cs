@@ -44,4 +44,4 @@ namespace FiveInARow.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.Re
+                    global::System.Resources.ResourceManager temp = new glo
