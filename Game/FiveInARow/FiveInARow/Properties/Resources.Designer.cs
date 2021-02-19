@@ -44,4 +44,4 @@ namespace FiveInARow.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FiveInARow.Properties.Resources", typ
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FiveInARow.Properties.Resources", typeof(Resources).Assembl
