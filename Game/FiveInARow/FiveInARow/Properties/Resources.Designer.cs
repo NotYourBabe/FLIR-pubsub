@@ -47,4 +47,4 @@ namespace FiveInARow.Properties
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FiveInARow.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
-    
+                return resourceMa
