@@ -52,4 +52,4 @@ namespace FiveInARow.Properties
         }
 
         /// <summary>
-   
+        ///   Overrides the current thread's 
