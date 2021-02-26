@@ -52,4 +52,5 @@ namespace FiveInARow.Properties
         }
 
         /// <summary>
-        ///   Overrides the current thread's CurrentUICulture propert
+        ///   Overrides the current thread's CurrentUICulture property for all
+        ///   resource look
