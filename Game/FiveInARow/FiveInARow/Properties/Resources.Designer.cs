@@ -60,4 +60,5 @@ namespace FiveInARow.Properties
         {
             get
             {
-     
+                return resourceCulture;
+  
