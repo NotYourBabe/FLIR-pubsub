@@ -67,4 +67,5 @@ namespace FiveInARow.Properties
                 resourceCulture = value;
             }
         }
-  
+    }
+}
