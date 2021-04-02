@@ -31,4 +31,4 @@
     name/value pairs.
     
     Each data row contains a name, and value. The row also contains a 
-    ty
+    type or mimetype. Type corre
