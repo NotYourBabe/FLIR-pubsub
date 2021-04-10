@@ -32,4 +32,4 @@
     
     Each data row contains a name, and value. The row also contains a 
     type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion
+    text/value conversion through the TypeCo
