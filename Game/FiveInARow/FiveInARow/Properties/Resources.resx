@@ -45,4 +45,5 @@
     read any of the formats listed below.
     
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be ser
+    value   : The object must be serialized with 
+            : Syste
