@@ -47,4 +47,6 @@
     mimetype: application/x-microsoft.net.object.binary.base64
     value   : The object must be serialized with 
             : System.Serialization.Formatters.Binary.BinaryFormatter
-            : and then encoded with base64 en
+            : and then encoded with base64 encoding.
+    
+    mimetype: app
