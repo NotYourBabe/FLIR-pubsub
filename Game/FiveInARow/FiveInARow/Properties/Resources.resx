@@ -49,4 +49,4 @@
             : System.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
     
-    mimetype: app
+    mimetype: application/x-microsoft.net.object
