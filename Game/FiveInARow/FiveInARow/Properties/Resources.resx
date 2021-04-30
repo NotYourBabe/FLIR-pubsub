@@ -50,4 +50,4 @@
             : and then encoded with base64 encoding.
     
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : 
+    value   : The object must be serialized wi
