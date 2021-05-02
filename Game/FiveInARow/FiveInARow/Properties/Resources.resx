@@ -51,4 +51,4 @@
     
     mimetype: application/x-microsoft.net.object.soap.base64
     value   : The object must be serialized with 
-            : System.Runt
+            : System.Runtime.Serialization.Formatters.
