@@ -54,4 +54,4 @@
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
-    mimetype: appl
+    mimetype: application/x-microsoft.net
