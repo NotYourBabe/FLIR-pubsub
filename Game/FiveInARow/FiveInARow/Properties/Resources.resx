@@ -59,4 +59,4 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <x
+  <xsd:schema id="root" xmlns="" x
