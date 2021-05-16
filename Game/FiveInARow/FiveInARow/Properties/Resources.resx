@@ -56,4 +56,5 @@
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
     value   : The object must be serialized into a byte array 
-            : using a Syste
+            : using a System.ComponentModel.TypeConverter
+       
