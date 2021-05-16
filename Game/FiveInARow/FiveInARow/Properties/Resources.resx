@@ -54,4 +54,5 @@
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
-    mimetype: application/x-microsoft.net.object.bytearray.base6
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object mus
