@@ -63,4 +63,5 @@
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
-          <xsd:element
+          <xsd:element name="metadata">
+            <xs
