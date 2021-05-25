@@ -66,4 +66,4 @@
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-               
+                <xsd:element name="value" type="xs
