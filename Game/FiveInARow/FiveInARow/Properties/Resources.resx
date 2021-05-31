@@ -68,4 +68,5 @@
               <xsd:sequence>
                 <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="
+              <xsd:attribute name="name" type="xsd:string" />
+   
