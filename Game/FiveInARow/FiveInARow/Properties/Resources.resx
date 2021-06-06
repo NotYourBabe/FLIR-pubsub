@@ -70,4 +70,5 @@
               </xsd:sequence>
               <xsd:attribute name="name" type="xsd:string" />
               <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="m
+              <xsd:attribute name="mimetype" type="xsd:string" />
+       
