@@ -73,4 +73,5 @@
               <xsd:attribute name="mimetype" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
-          <xs
+          <xsd:element name="assembly">
+  
