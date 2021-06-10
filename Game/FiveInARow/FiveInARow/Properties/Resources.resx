@@ -75,4 +75,4 @@
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name
+              <xsd:attribute name="alias" type="xsd:st
