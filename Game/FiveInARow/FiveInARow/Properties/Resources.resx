@@ -74,4 +74,5 @@
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
-            <xsd:complexType
+            <xsd:complexType>
+              <xsd:attribute name
