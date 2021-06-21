@@ -78,4 +78,5 @@
               <xsd:attribute name="alias" type="xsd:string" />
               <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
-          </xsd:element
+          </xsd:element>
+          <xsd:element na
