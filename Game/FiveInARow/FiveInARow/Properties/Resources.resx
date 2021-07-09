@@ -90,4 +90,5 @@
               <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
             </xsd:complexType>
           </xsd:element>
-          <xsd:element name="reshe
+          <xsd:element name="resheader">
+            <xsd:complex
