@@ -102,4 +102,5 @@
       </xsd:complexType>
     </xsd:element>
   </xsd:schema>
-  <resheader 
+  <resheader name="resmimetype">
+    <value>text/mic
