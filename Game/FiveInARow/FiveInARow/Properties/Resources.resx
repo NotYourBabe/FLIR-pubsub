@@ -103,4 +103,5 @@
     </xsd:element>
   </xsd:schema>
   <resheader name="resmimetype">
-    <value>text/mic
+    <value>text/microsoft-resx</value>
+  </resh
