@@ -100,4 +100,6 @@
           </xsd:element>
         </xsd:choice>
       </xsd:complexType>
-    </xsd:elem
+    </xsd:element>
+  </xsd:schema>
+  <resheader 
