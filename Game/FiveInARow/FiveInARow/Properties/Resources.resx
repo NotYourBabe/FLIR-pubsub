@@ -105,4 +105,6 @@
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
-  <resheader name="vers
+  <resheader name="version">
+    <value>2.0</value>
+  <
