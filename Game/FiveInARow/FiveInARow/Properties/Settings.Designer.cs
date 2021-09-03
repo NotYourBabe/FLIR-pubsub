@@ -9,3 +9,7 @@
 //------------------------------------------------------------------------------
 
 namespace FiveInARow.Properties
+{
+
+
+    [global::System.Runtime.C
