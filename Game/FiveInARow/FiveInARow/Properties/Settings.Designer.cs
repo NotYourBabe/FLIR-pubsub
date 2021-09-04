@@ -12,4 +12,4 @@ namespace FiveInARow.Properties
 {
 
 
-    [global::System.Runtime.C
+    [global::System.Runtime.CompilerServices.CompilerGe
