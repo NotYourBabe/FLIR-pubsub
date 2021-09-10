@@ -13,4 +13,4 @@ namespace FiveInARow.Properties
 
 
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::Syst
+    [global::System.CodeDom.Compiler.GeneratedCodeA
