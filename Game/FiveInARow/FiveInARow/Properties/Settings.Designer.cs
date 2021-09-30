@@ -17,4 +17,4 @@ namespace FiveInARow.Properties
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase
     {
 
-        private static
+        private static Settings defaultInstance = 
