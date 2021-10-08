@@ -21,4 +21,6 @@ namespace FiveInARow.Properties
 
         public static Settings Default
         {
-   
+            get
+            {
+      
