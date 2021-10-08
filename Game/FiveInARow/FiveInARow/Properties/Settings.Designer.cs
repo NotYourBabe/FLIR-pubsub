@@ -19,4 +19,6 @@ namespace FiveInARow.Properties
 
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
 
-        public static Setti
+        public static Settings Default
+        {
+   
