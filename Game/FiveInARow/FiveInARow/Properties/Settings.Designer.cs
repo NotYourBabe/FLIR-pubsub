@@ -23,4 +23,5 @@ namespace FiveInARow.Properties
         {
             get
             {
-      
+                return defaultInstance;
+  
