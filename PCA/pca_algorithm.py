@@ -9,4 +9,5 @@ def convert(x, default=0):
         return default
 
 
-def loadDataSet(
+def loadDataSet(fileName, delim='\t'):
+    fr = op
