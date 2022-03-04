@@ -6,4 +6,7 @@ def convert(x, default=0):
     try:
         return float(x)
     except:
- 
+        return default
+
+
+def loadDataSet(
