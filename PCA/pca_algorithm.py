@@ -10,4 +10,5 @@ def convert(x, default=0):
 
 
 def loadDataSet(fileName, delim='\t'):
-    fr = op
+    fr = open(fileName)
+    stringArr = [li
