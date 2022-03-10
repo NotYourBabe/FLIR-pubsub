@@ -12,4 +12,4 @@ def convert(x, default=0):
 def loadDataSet(fileName, delim='\t'):
     fr = open(fileName)
     stringArr = [line.strip().split(delim) for line in fr.readlines()]
-    datArr = [[
+    datArr = [[ convert(eachVal) for eachVal i
