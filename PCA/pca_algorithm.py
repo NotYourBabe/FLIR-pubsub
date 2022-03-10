@@ -11,4 +11,4 @@ def convert(x, default=0):
 
 def loadDataSet(fileName, delim='\t'):
     fr = open(fileName)
-    stringArr = [li
+    stringArr = [line.strip().split(delim) for line
