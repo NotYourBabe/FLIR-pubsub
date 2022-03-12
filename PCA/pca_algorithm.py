@@ -16,4 +16,5 @@ def loadDataSet(fileName, delim='\t'):
     return mat(datArr)
 
 
-def pca(dataM
+def pca(dataMat, topNfeat=9999999):
+    meanVa
