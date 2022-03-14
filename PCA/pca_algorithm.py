@@ -17,4 +17,4 @@ def loadDataSet(fileName, delim='\t'):
 
 
 def pca(dataMat, topNfeat=9999999):
-    meanVa
+    meanVals = mean(dataMat, axis=
