@@ -19,4 +19,5 @@ def loadDataSet(fileName, delim='\t'):
 def pca(dataMat, topNfeat=9999999):
     meanVals = mean(dataMat, axis=0)
     meanRemoved = dataMat - meanVals
-    covMat = cov(meanRemoved
+    covMat = cov(meanRemoved, rowvar=0)
+    eigVals,eig
