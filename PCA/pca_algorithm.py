@@ -21,4 +21,4 @@ def pca(dataMat, topNfeat=9999999):
     meanRemoved = dataMat - meanVals
     covMat = cov(meanRemoved, rowvar=0)
     eigVals,eigVects = linalg.eig(mat(covMat))
-  
+    eigValInd = argsort(ei
