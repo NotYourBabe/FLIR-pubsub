@@ -23,4 +23,4 @@ def pca(dataMat, topNfeat=9999999):
     eigVals,eigVects = linalg.eig(mat(covMat))
     eigValInd = argsort(eigVals)
     eigValInd = eigValInd[:-(topNfeat+1):-1]
-    redEigVec
+    redEigVects = eigVects[:,eigValInd]
