@@ -24,3 +24,4 @@ def pca(dataMat, topNfeat=9999999):
     eigValInd = argsort(eigVals)
     eigValInd = eigValInd[:-(topNfeat+1):-1]
     redEigVects = eigVects[:,eigValInd]
+    lowDDataMat = meanRemoved
