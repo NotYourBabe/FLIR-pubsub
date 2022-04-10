@@ -26,4 +26,6 @@ def pca(dataMat, topNfeat=9999999):
     redEigVects = eigVects[:,eigValInd]
     lowDDataMat = meanRemoved * redEigVects
     reconMat = (lowDDataMat * redEigVects.T) + meanVals
-    return lowDDataMat, r
+    return lowDDataMat, reconMat
+
+dataMat = l
