@@ -28,4 +28,4 @@ def pca(dataMat, topNfeat=9999999):
     reconMat = (lowDDataMat * redEigVects.T) + meanVals
     return lowDDataMat, reconMat
 
-dataMat = loadDataSet('C:/Users/bigbulu/Downloads/MLiA_SourceCode/machi
+dataMat = loadDataSet('C:/Users/bigbulu/Downloads/MLiA_SourceCode/machinelearninginaction/Ch13/testSet_m
