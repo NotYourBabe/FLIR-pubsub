@@ -29,4 +29,7 @@ def pca(dataMat, topNfeat=9999999):
     return lowDDataMat, reconMat
 
 dataMat = loadDataSet('C:/Users/bigbulu/Downloads/MLiA_SourceCode/machinelearninginaction/Ch13/testSet_modified.txt')
-lowDMat, reconMat = pca(d
+lowDMat, reconMat = pca(dataMat, 1)
+
+fig = plt.figure()
+ax = fig.add_
