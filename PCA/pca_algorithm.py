@@ -32,4 +32,5 @@ dataMat = loadDataSet('C:/Users/bigbulu/Downloads/MLiA_SourceCode/machinelearnin
 lowDMat, reconMat = pca(dataMat, 1)
 
 fig = plt.figure()
-ax = fig.add_
+ax = fig.add_subplot(111)
+ax.scatter(dataMa
