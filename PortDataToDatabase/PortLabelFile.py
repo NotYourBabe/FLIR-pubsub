@@ -5,4 +5,4 @@ conn = MySQLdb.connect(host="localhost",
                        db="testdb")
 x = conn.cursor()
 
-file = open("F:/DataMi
+file = open("F:/DataMining/anonymized_dataset_for_ADM2
