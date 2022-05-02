@@ -5,4 +5,6 @@ conn = MySQLdb.connect(host="localhost",
                        db="testdb")
 x = conn.cursor()
 
-file = open("F:/DataMining/anonymized_dataset_for_ADM2017/training_label.csv", "r"
+file = open("F:/DataMining/anonymized_dataset_for_ADM2017/training_label.csv", "r")
+skip = True
+for line in 
