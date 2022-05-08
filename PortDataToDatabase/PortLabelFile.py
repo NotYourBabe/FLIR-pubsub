@@ -9,4 +9,6 @@ file = open("F:/DataMining/anonymized_dataset_for_ADM2017/training_label.csv", "
 skip = True
 for line in file:
     if (skip):
-        ski
+        skip = False
+        continue
+   
