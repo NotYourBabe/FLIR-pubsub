@@ -11,4 +11,5 @@ for line in file:
     if (skip):
         skip = False
         continue
-   
+    data = line.split(',')
+    
