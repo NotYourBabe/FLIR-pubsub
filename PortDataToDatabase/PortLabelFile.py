@@ -12,4 +12,5 @@ for line in file:
         skip = False
         continue
     data = line.split(',')
-    
+    try:
+        x.execute("""INSERT 
