@@ -13,4 +13,4 @@ for line in file:
         continue
     data = line.split(',')
     try:
-        x.execute("""INSERT 
+        x.execute("""INSERT INTO traininglabel VALUES (%s,%s,%s,
