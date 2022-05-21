@@ -15,4 +15,4 @@ for line in file:
     try:
         x.execute("""INSERT INTO traininglabel VALUES (%s,%s,%s,%s,%s)""",
                       (data[0], data[1], data[2],
-       
+                       data[3], dat
