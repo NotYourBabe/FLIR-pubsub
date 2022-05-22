@@ -19,4 +19,6 @@ for line in file:
         conn.commit()
     except Exception as e:
         conn.rollback()
-        #print(
+        #print(e)
+
+conn.close()
