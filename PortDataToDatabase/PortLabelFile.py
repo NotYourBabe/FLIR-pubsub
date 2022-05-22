@@ -18,4 +18,5 @@ for line in file:
                        data[3], data[4]))
         conn.commit()
     except Exception as e:
-      
+        conn.rollback()
+        #print(
