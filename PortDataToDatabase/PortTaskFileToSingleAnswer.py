@@ -1,1 +1,2 @@
-import My
+import MySQLdb
+conn = MySQLdb.connect(hos
