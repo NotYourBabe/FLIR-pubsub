@@ -1,2 +1,3 @@
 import MySQLdb
-conn = MySQLdb.connect(hos
+conn = MySQLdb.connect(host="localhost",
+               
