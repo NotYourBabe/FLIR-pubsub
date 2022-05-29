@@ -2,4 +2,7 @@ import MySQLdb
 conn = MySQLdb.connect(host="localhost",
                        user="root",
                        passwd="1234",
-                       db="testdb
+                       db="testdb")
+x = conn.cursor()
+
+for i in rang
