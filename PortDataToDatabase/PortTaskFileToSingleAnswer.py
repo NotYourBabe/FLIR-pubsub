@@ -5,4 +5,6 @@ conn = MySQLdb.connect(host="localhost",
                        db="testdb")
 x = conn.cursor()
 
-for i in rang
+for i in range(1, 11):
+
+        file = o
