@@ -7,4 +7,4 @@ x = conn.cursor()
 
 for i in range(1, 11):
 
-        file = o
+        file = open("F:/DataMining/anony
