@@ -11,4 +11,5 @@ for i in range(1, 11):
         skip = True
         for line in file:
             if (skip):
-                s
+                skip = False
+                cont
