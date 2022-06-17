@@ -12,4 +12,5 @@ for i in range(1, 11):
         for line in file:
             if (skip):
                 skip = False
-                cont
+                continue
+            data = line.sp
