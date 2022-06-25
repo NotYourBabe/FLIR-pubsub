@@ -13,4 +13,6 @@ for i in range(1, 11):
             if (skip):
                 skip = False
                 continue
-            data = line.sp
+            data = line.split(',')
+            try:
+  
