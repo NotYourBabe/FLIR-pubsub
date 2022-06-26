@@ -15,4 +15,4 @@ for i in range(1, 11):
                 continue
             data = line.split(',')
             try:
-                x.execu
+                x.execute("""INSERT INTO problemans
