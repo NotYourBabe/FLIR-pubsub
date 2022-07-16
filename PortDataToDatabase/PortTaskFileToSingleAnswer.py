@@ -17,4 +17,5 @@ for i in range(1, 11):
             try:
                 x.execute("""INSERT INTO problemanswered VALUES (
                 %s,%s,%s,%s,%s,%s,%s,%s,%s,%s,
-                %s,%s,%s,%
+                %s,%s,%s,%s,%s,%s,%s,%s,%s,%s,
+        
