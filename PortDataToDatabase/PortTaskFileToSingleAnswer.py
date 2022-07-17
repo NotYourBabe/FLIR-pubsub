@@ -18,4 +18,4 @@ for i in range(1, 11):
                 x.execute("""INSERT INTO problemanswered VALUES (
                 %s,%s,%s,%s,%s,%s,%s,%s,%s,%s,
                 %s,%s,%s,%s,%s,%s,%s,%s,%s,%s,
-        
+                %s,%s,%s,%s,%s,%
