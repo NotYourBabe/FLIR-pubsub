@@ -24,4 +24,5 @@ for i in range(1, 11):
                 %s,%s,%s,%s,%s,%s,%s,%s,%s,%s,
                 %s,%s,%s,%s,%s)""",
                       (data[12], data[13], data[14], data[15], data[16],
-                       data[17], data[18], data[1
+                       data[17], data[18], data[19], data[20], data[21],
+     
