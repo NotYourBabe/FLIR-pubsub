@@ -34,4 +34,4 @@ for i in range(1, 11):
                        data[52], data[53], data[54], data[55], data[56],
                        data[57], data[58], data[59], data[60], data[61],
                        data[62], data[63], data[64], data[65], data[66],
- 
+                       data
