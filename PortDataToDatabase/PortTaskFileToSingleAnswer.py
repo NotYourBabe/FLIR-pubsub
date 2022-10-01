@@ -35,4 +35,4 @@ for i in range(1, 11):
                        data[57], data[58], data[59], data[60], data[61],
                        data[62], data[63], data[64], data[65], data[66],
                        data[67], data[68], data[69], data[70], data[71],
-                       data[72], data
+                       data[72], data[73], data[74], data[75].r
