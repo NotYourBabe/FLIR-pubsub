@@ -38,4 +38,5 @@ for i in range(1, 11):
                        data[72], data[73], data[74], data[75].rstrip(), data[0]))
                 conn.commit()
             except Exception as e:
-                conn.rollback(
+                conn.rollback()
+                #pri
