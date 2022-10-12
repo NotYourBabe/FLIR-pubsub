@@ -39,4 +39,6 @@ for i in range(1, 11):
                 conn.commit()
             except Exception as e:
                 conn.rollback()
-                #pri
+                #print(e)
+
+conn.close()
