@@ -5,4 +5,5 @@ conn = MySQLdb.connect(host="localhost",
                        db="testdb")
 x = conn.cursor()
 
-tr
+try:
+    x.execute("""INSERT INTO table1 VALUES
