@@ -6,4 +6,5 @@ conn = MySQLdb.connect(host="localhost",
 x = conn.cursor()
 
 try:
-    x.execute("""INSERT INTO table1 VALUES
+    x.execute("""INSERT INTO table1 VALUES (%s,%s)""", (1,1.23))
+    co
