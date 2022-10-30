@@ -9,4 +9,6 @@ try:
     x.execute("""INSERT INTO table1 VALUES (%s,%s)""", (1,1.23))
     conn.commit()
 except:
-    co
+    conn.rollback()
+
+conn.close()
