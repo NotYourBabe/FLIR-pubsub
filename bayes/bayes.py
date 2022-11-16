@@ -1,1 +1,4 @@
-from numpy 
+from numpy import *
+
+def loadDataSet():
+    
