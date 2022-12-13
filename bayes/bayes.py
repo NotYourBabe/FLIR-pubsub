@@ -5,4 +5,4 @@ def loadDataSet():
                    ['maybe', 'not', 'take', 'him', 'to', 'dog', 'park', 'stupid'],
                    ['my', 'dalmation', 'is', 'so', 'cute', 'I', 'love', 'him'],
                    ['stop', 'posting', 'stupid', 'worthless', 'garbage'],
-                   ['m
+                   ['mr', 'licks', 'ate', 'my', 
