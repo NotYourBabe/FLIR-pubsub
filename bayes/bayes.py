@@ -6,4 +6,5 @@ def loadDataSet():
                    ['my', 'dalmation', 'is', 'so', 'cute', 'I', 'love', 'him'],
                    ['stop', 'posting', 'stupid', 'worthless', 'garbage'],
                    ['mr', 'licks', 'ate', 'my', 'steak', 'how', 'to', 'stop', 'him'],
-                   ['quit', 'buying', 'worthless', 'dog', 'food', 'st
+                   ['quit', 'buying', 'worthless', 'dog', 'food', 'stupid']]
+    classVec = [0, 1, 0, 1, 
