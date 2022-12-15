@@ -8,4 +8,4 @@ def loadDataSet():
                    ['mr', 'licks', 'ate', 'my', 'steak', 'how', 'to', 'stop', 'him'],
                    ['quit', 'buying', 'worthless', 'dog', 'food', 'stupid']]
     classVec = [0, 1, 0, 1, 0, 1]  # 1 is abusive, 0 not
- 
+    return postingLi
