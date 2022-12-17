@@ -12,3 +12,5 @@ def loadDataSet():
 
 def createVocabList(dataSet):
     vocabSet = set([])  #create empty set
+    for document in dataSet:
+  
