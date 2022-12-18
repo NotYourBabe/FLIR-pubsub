@@ -13,4 +13,5 @@ def loadDataSet():
 def createVocabList(dataSet):
     vocabSet = set([])  #create empty set
     for document in dataSet:
-        vocabSet = vocabSet | set(document) #unio
+        vocabSet = vocabSet | set(document) #union of the two sets
+    return list(v
