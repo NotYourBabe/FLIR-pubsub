@@ -16,4 +16,5 @@ def createVocabList(dataSet):
         vocabSet = vocabSet | set(document) #union of the two sets
     return list(vocabSet)
 
-def setOfWords2Vec(vocabList, inputSe
+def setOfWords2Vec(vocabList, inputSet):
+    returnVec = [0] * len(
