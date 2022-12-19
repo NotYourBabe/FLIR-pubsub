@@ -17,4 +17,5 @@ def createVocabList(dataSet):
     return list(vocabSet)
 
 def setOfWords2Vec(vocabList, inputSet):
-    returnVec = [0] * len(
+    returnVec = [0] * len(vocabList)
+    for word in input
