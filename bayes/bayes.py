@@ -25,4 +25,5 @@ def setOfWords2Vec(vocabList, inputSet):
             print "the word: %s is not in my vocabList" % word
     return returnVec
 
-def trainNB0(trainMatrix, trainCa
+def trainNB0(trainMatrix, trainCategory):
+    numTrainDocs = le
