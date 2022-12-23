@@ -23,4 +23,6 @@ def setOfWords2Vec(vocabList, inputSet):
             returnVec[vocabList.index(word)] = 1
         else:
             print "the word: %s is not in my vocabList" % word
-    return returnVe
+    return returnVec
+
+def trainNB0(trainMatrix, trainCa
