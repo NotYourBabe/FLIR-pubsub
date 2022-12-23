@@ -22,4 +22,5 @@ def setOfWords2Vec(vocabList, inputSet):
         if word in vocabList:
             returnVec[vocabList.index(word)] = 1
         else:
-            print "the word: %s is not in my vocabList" % wo
+            print "the word: %s is not in my vocabList" % word
+    return returnVe
