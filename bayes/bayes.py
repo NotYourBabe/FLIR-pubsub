@@ -32,4 +32,5 @@ def trainNB0(trainMatrix, trainCategory):
     p0Num = ones(numWords)
     p1Num = ones(numWords)
     p0Denom = 2
-    p1Denom = 
+    p1Denom = 2
+    for i in range(numTrainD
