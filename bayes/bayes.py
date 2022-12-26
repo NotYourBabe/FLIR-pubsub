@@ -31,3 +31,5 @@ def trainNB0(trainMatrix, trainCategory):
     pAbusive = sum(trainCategory) / float(numTrainDocs)
     p0Num = ones(numWords)
     p1Num = ones(numWords)
+    p0Denom = 2
+    p1Denom = 
