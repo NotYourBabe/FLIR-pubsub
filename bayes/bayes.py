@@ -36,4 +36,6 @@ def trainNB0(trainMatrix, trainCategory):
     for i in range(numTrainDocs):
         if trainCategory[i] == 1:
             p1Num += trainMatrix[i]
-            p1Denom += sum
+            p1Denom += sum(trainMatrix[i])
+        else:
+  
