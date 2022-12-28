@@ -38,4 +38,5 @@ def trainNB0(trainMatrix, trainCategory):
             p1Num += trainMatrix[i]
             p1Denom += sum(trainMatrix[i])
         else:
-            p0Num += t
+            p0Num += trainMatrix[i]
+            p0De
