@@ -39,4 +39,6 @@ def trainNB0(trainMatrix, trainCategory):
             p1Denom += sum(trainMatrix[i])
         else:
             p0Num += trainMatrix[i]
-            p0Denom += sum(trainMatrix[i
+            p0Denom += sum(trainMatrix[i])
+    p1Vect = log(p1Num / p1Denom)
+ 
