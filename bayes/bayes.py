@@ -44,4 +44,5 @@ def trainNB0(trainMatrix, trainCategory):
     p0Vect = log(p0Num / p0Denom)
     return p0Vect, p1Vect, pAbusive
 
-def classifyNB(vec2Classif
+def classifyNB(vec2Classify, p0Vec, p1Vec, pClass1):
+  
