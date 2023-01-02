@@ -50,4 +50,6 @@ def classifyNB(vec2Classify, p0Vec, p1Vec, pClass1):
     if (p1 > p0):
         return 1
     else:
-        retu
+        return 0
+
+def bagOfWords2VecMN(voca
