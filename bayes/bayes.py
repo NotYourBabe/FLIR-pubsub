@@ -52,4 +52,5 @@ def classifyNB(vec2Classify, p0Vec, p1Vec, pClass1):
     else:
         return 0
 
-def bagOfWords2VecMN(voca
+def bagOfWords2VecMN(vocabList, inputSet):
+    returnVe
