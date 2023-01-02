@@ -53,4 +53,5 @@ def classifyNB(vec2Classify, p0Vec, p1Vec, pClass1):
         return 0
 
 def bagOfWords2VecMN(vocabList, inputSet):
-    returnVe
+    returnVec = [0] * len(vocabList)
+    for word 
