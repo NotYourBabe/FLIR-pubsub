@@ -56,4 +56,4 @@ def bagOfWords2VecMN(vocabList, inputSet):
     returnVec = [0] * len(vocabList)
     for word in inputSet:
         if word in vocabList:
-   
+            returnVec[vocab
