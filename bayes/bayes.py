@@ -60,4 +60,5 @@ def bagOfWords2VecMN(vocabList, inputSet):
     return returnVec
 
 def testingNB():
-    mylist, listClasses 
+    mylist, listClasses = loadDataSet()
+    myVocabLis
