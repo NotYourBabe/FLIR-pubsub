@@ -62,4 +62,6 @@ def bagOfWords2VecMN(vocabList, inputSet):
 def testingNB():
     mylist, listClasses = loadDataSet()
     myVocabList = createVocabList(mylist)
-    trainM
+    trainMatrix = []
+    for doc in mylist:
+  
