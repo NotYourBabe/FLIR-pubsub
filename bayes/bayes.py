@@ -64,4 +64,5 @@ def testingNB():
     myVocabList = createVocabList(mylist)
     trainMatrix = []
     for doc in mylist:
-        trainMatrix.append(setOfWo
+        trainMatrix.append(setOfWords2Vec(myVocabList, doc))
+ 
