@@ -66,4 +66,5 @@ def testingNB():
     for doc in mylist:
         trainMatrix.append(setOfWords2Vec(myVocabList, doc))
     p0V, p1V, pAb = trainNB0(trainMatrix, listClasses)
-    testEntry = ['love', 'm
+    testEntry = ['love', 'my', 'dalmation']
+    thi
