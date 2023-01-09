@@ -68,4 +68,5 @@ def testingNB():
     p0V, p1V, pAb = trainNB0(trainMatrix, listClasses)
     testEntry = ['love', 'my', 'dalmation']
     thisDoc = array(setOfWords2Vec(myVocabList, testEntry))
-    print testEntry, classifyNB(thisDoc, p0V,
+    print testEntry, classifyNB(thisDoc, p0V, p1V, pAb)
+    testEntry = ['stupi
