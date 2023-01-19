@@ -70,4 +70,5 @@ def testingNB():
     thisDoc = array(setOfWords2Vec(myVocabList, testEntry))
     print testEntry, classifyNB(thisDoc, p0V, p1V, pAb)
     testEntry = ['stupid', 'garbage']
-    thisDoc = array(setOfWords2Vec(myVocabList,
+    thisDoc = array(setOfWords2Vec(myVocabList, testEntry))
+    print testEntry, 
